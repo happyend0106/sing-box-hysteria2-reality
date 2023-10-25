@@ -8,7 +8,9 @@
 
 使用教程
 reality和hysteria2 wss三合一脚本
+···
 bash <(curl -fsSL https://github.com/ryanqiang403/sing-box-reality-hysteria2/raw/main/reality_hy2_ws.sh)
+···
 
 项目	
 程序	/root/sbox/sing-box
