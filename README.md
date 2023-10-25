@@ -22,6 +22,7 @@ bash <(curl -fsSL https://github.com/ryanqiang403/sing-box-reality-hysteria2/raw
 ```
 
 
+|||
 |:--|:--|
 |程序|**/root/sbox/sing-box**|
 |服务端配置|**/root/sbox/sbconfig_server.json**|
